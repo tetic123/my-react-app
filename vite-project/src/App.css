@@ -17,6 +17,13 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
 
 @keyframes logo-spin {
   from {
@@ -40,3 +47,4 @@
 .read-the-docs {
   color: #888;
 }
+
